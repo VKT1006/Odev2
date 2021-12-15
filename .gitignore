@@ -3,6 +3,7 @@
 
 # Whole bin directory
 bin/
+
 # Log file
 *.log
 
@@ -26,5 +27,7 @@ bin/
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# extra doc's in my project
 .project
 .classpath
